@@ -28,13 +28,13 @@ article section {
     padding: .5rem;
 }
 
-article .box-1 { background:rgba(100,0,0,1); flex: 0; }
-article .box-2 { background:rgba(100,20,0,1); flex: 1; }
-article .box-3 { background:rgba(100,40,0,1); flex: 1; }
-article .box-4 { background:rgba(100,60,0,1); flex: 2; }
-article .box-5 { background:rgba(100,80,0,1); flex: 3; }
-article .box-6 { background:rgba(100,100,0,1); flex: 5; }
-article .box-7 { background:rgba(100,120,0,1); flex: 8; }
-article .box-8 { background:rgba(100,140,0,1); flex: 13; }
-article .box-9 { background:rgba(100,160,0,1); flex: 22; }
-article .box-10 { background:rgba(100,180,0,1); flex: 34; }
+article .box1 { background:rgba(100,0,0,1); flex: 1; }
+article .box2 { background:rgba(100,20,0,1); flex: 1; }
+article .box3 { background:rgba(100,40,0,1); flex: 1; }
+article .box4 { background:rgba(100,60,0,1); flex: 2; }
+article .box5 { background:rgba(100,80,0,1); flex: 3; }
+article .box6 { background:rgba(100,100,0,1); flex: 5; }
+article .box7 { background:rgba(100,120,0,1); flex: 8; }
+article .box8 { background:rgba(100,140,0,1); flex: 13; }
+article .box9 { background:rgba(100,160,0,1); flex: 22; }
+article .box10 { background:rgba(100,180,0,1); flex: 34; }
